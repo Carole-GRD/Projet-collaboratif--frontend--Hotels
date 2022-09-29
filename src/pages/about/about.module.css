@@ -1,0 +1,10 @@
+.aboutDiv {
+    height: 250px;
+}
+
+.aboutDiv article {
+    position: relative;
+    top: 300px;
+    padding: 0 15vw;
+    text-align: justify;
+}

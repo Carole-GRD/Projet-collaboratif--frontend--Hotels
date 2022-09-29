@@ -1,0 +1,93 @@
+.blabla,
+.blablaRoomItem {
+    /* border: 3px solid rgb(83, 83, 83); */
+    width: 500px;
+    height: 700px;
+    background-color: #9EA3B0;
+    margin: 0%;
+    padding: 0%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(97, 97, 97);
+    /* border: 1px solid red; */
+    /* display: flex;    */
+
+}
+
+.linkSoulignement {
+    text-decoration: none;
+
+}
+
+.blablaRoomItem {
+    height: 650px;
+}
+
+.description,
+.descriptionRoomItem {
+    height: 215px;
+    width: 100%;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 650;
+    margin-left: 15px;
+    color: #212A30;
+    color: rgb(48, 45, 80);
+}
+
+.descriptionRoomItem p {
+    margin: 25px;
+}
+
+p {
+    margin: 5px 0 0 15px;
+}
+
+img {
+    height: 250px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(97, 97, 97);
+
+}
+
+article {
+    color: #212A30;
+}
+
+button {
+    margin: 20px 0 0 10px;
+}
+
+.adminButton {
+    margin-top: 70px;
+}
+
+.adminButton button {
+    /* background-color: rgba(220, 20, 60, 0.254); */
+    border-radius: 3px;
+    margin-top: 70px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgb(97, 97, 97);
+    background-color: #FAE1DF;
+    border: none;
+}
+
+.adminButton button:first-of-type {
+    margin-left: 100px;
+}
+
+.adminButtonRoomItem button {
+    /* background-color: rgba(220, 20, 60, 0.254); */
+    border-radius: 3px;
+    margin-top: 70px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgb(97, 97, 97);
+    background-color: #FAE1DF;
+    border: none;
+}
+
+.adminButtonRoomItem button:first-of-type {
+    margin-left: 100px;
+}

@@ -1,0 +1,76 @@
+
+[
+    {
+        "id" : 1,
+        "nomHotel" : "Hotel_01",
+        "etoiles" : 5,
+        "adresse" :  {
+            "CP" : 5100,
+            "num" : 34,
+            "rue" : "Trieu do mont",
+            "pays" : "Belgique"
+        },
+        "telephone" : "+32 11 11 11 11",
+        "email" : "hotel.01@gmail.com",
+        "nombreChambres" : 3,
+        "piscine" : "Oui",
+        "voiturier" : "Oui",
+        "roomService" : "Oui",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/1a/ea/54/hotel-presidente-4s.jpg"
+    
+    },
+    {
+        "id" : 2,
+        "nomHotel" : "Hotel_02",
+        "etoiles" : 4,
+        "adresse" :  {
+            "CP" : 75000,
+            "num" : 128,
+            "rue" : "Champs Elysée",
+            "pays" : "France"
+        },
+        "telephone" : "+33 11 11 11 22",
+        "email" : "hotel.02@gmail.com",
+        "nombreChambres" : 4,
+        "piscine" : true,
+        "voiturier" : false,
+        "roomService" : true,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/1a/ea/54/hotel-presidente-4s.jpg"
+    },
+    {
+        "id" : 3,
+        "nomHotel" : "Hotel_03",
+        "etoiles" : 3,
+        "adresse" :  {
+            "CP" : 50220,
+            "num" : 52,
+            "rue" : "Tommy",
+            "pays" : "Italie"
+        },
+        "telephone" : "+33 11 11 11 33",
+        "email" : "hotel.03@gmail.com",
+        "nombreChambres" : 2,
+        "piscine" : true,
+        "voiturier" : false,
+        "roomService" : false,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/1a/ea/54/hotel-presidente-4s.jpg"
+    },
+    {
+        "id" : 4,
+        "nomHotel" : "Hotel_04",
+        "etoiles" : 3,
+        "adresse" :  {
+            "CP" : 5320,
+            "num" : 46,
+            "rue" : "Sirène",
+            "pays" : "Suède"
+        },
+        "telephone" : "+44 11 11 11 44",
+        "email" : "hotel.04@gmail.com",
+        "nombreChambres" : 6,
+        "piscine" : false,
+        "voiturier" : true,
+        "roomService" : true,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/1a/ea/54/hotel-presidente-4s.jpg"
+    }
+]

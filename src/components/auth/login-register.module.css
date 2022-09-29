@@ -1,0 +1,22 @@
+.divLogin {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    width: 100%;
+    height: 120px;  
+    
+
+}
+
+.loginButton {
+    font-size: 1.5rem;
+    padding: 5px 20px;
+    margin-right: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgb(97, 97, 97);
+    background-color: #ff7f51;
+    border: none;
+
+
+}

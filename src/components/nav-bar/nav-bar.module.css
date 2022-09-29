@@ -1,0 +1,25 @@
+.nav {
+    position: fixed;
+    display: flex;
+    height: 120px;
+    width: 100%;
+    background-color: #546A7B;
+    /* background-color: #0D1F2D; */
+    box-shadow: 5px 5px 5px rgb(97, 97, 97);
+    /* justify-content: center; */
+    align-items: center;
+    top: 0;
+
+
+}
+
+
+.bla {
+
+    font-weight: 500;
+    font-size: 1rem;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(97, 97, 97);
+    background-color: #ff7f51;
+    border: none;
+}
